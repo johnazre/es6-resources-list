@@ -24,7 +24,9 @@
 
 ## Style Guides
 * [ES6 Style Guide used by Airbnb](https://github.com/airbnb/javascript)
-* ["Standard" style guide](https://github.com/standard/standard)
+* ["Standard" Style Guide](https://github.com/standard/standard)
+* [Google Style Guide](https://google.github.io/styleguide/jsguide.html)
+* [Idiomatic Style Guide](https://github.com/rwaldron/idiomatic.js/)
 
 ## Other resources lists
 * [ECMAScript 6 Learning](https://github.com/ericdouglas/ES6-Learning)
