@@ -19,3 +19,4 @@
 
 ## Reading
 * [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
+* [ES6 Style Guide used by Airbnb](https://github.com/airbnb/javascript)
