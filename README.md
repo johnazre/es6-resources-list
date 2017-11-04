@@ -15,7 +15,7 @@
 * [Arrow functions in JavaScript - What, Why and How - By FunFunFunction](https://youtu.be/6sQDTgOqh-I)
 * [async / await in JavaScript - What, Why and How - By FunFunFunction](https://youtu.be/568g8hxJJp4)
 * [Fat Arrow Functions JavaScript Programming Tutorial - Adam Khoury](https://youtu.be/J85lRtO_yjY)
-* [Essential ES6 / ES2015 JavaScript](https://youtu.be/CozSF5abcTA)
+* [Essential ES6 / ES2015 JavaScript - by Kyle Robinson Young](https://youtu.be/CozSF5abcTA)
 
 ## Reading
 * [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
