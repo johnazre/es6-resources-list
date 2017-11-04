@@ -15,8 +15,15 @@
 * [Arrow functions in JavaScript - What, Why and How - By FunFunFunction](https://youtu.be/6sQDTgOqh-I)
 * [async / await in JavaScript - What, Why and How - By FunFunFunction](https://youtu.be/568g8hxJJp4)
 * [Fat Arrow Functions JavaScript Programming Tutorial - Adam Khoury](https://youtu.be/J85lRtO_yjY)
-* [Essential ES6 / ES2015 JavaScript](https://youtu.be/CozSF5abcTA)
+* [Essential ES6 / ES2015 JavaScript - by Kyle Robinson Young](https://youtu.be/CozSF5abcTA)
 
 ## Reading
 * [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
+* [ECMAScript 6 Tutorial](http://ccoenraets.github.io/es6-tutorial/)
+* [ES6 Tutorial](https://www.tutorialspoint.com/es6/)
+
+## Style Guides
 * [ES6 Style Guide used by Airbnb](https://github.com/airbnb/javascript)
+
+## Other resources lists
+* [ECMAScript 6 Learning](https://github.com/ericdouglas/ES6-Learning)
