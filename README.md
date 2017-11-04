@@ -22,5 +22,8 @@
 * [ECMAScript 6 Tutorial](http://ccoenraets.github.io/es6-tutorial/)
 * [ES6 Tutorial](https://www.tutorialspoint.com/es6/)
 
+## Style Guides
+* [ES6 Style Guide used by Airbnb](https://github.com/airbnb/javascript)
+
 ## Other resources lists
 * [ECMAScript 6 Learning](https://github.com/ericdouglas/ES6-Learning)
